@@ -131,7 +131,8 @@
         "description": "A multi expert framework named MoXpert to enhance the capabilities of multimodal large language models (MLLMs) in indusrial anomaly detection.",
         "technologies": [
           "MLLM",
-          "RAG"
+          "RAG",
+          "industrial anomaly detection"
         ],
         "authors": "**Authors:** **Zhiling Chen**,  Farhad Imani",
         "links": [
@@ -199,7 +200,8 @@
         "description": "We propose Echo, a novel multi-expert framework designed to enhance MLLM performance for industrial anomaly detection.",
         "technologies": [
           "MLLM",
-          "RAG"
+          "RAG",
+          "industrial anomaly detection"
         ],
         "authors": "**Authors:** **Zhiling Chen**, Hanning Chen, Mohsen Imani, Farhad Imani",
         "links": [
@@ -255,7 +257,7 @@
       {
         "title": "Federated Hyperdimensional Computing for hierarchical and distributed quality monitoring in smart manufacturing",
         "href": "https://www.sciencedirect.com/science/article/abs/pii/S2542660525000812",
-        "dates": "ACL 2024",
+        "dates": "Internet of Things",
         "active": true,
         "description": "A communication-efficient federated learning framework based on Hyperdimensional Computing is introduced for hierarchical and non-IID smart manufacturing data at the edge.",
         "technologies": [
@@ -394,6 +396,14 @@
         "logoUrl": "/icon/uconn_logo.png",
         "start": "2023",
         "end": "2027 (expected)"
+      },
+      {
+        "school": "Boston University",
+        "href": "https://www.bu.edu/",
+        "degree": "Master of Science in Applied Data Analytics",
+        "logoUrl": "/icon/bu.png",
+        "start": "2021",
+        "end": "2022"
       },
       {
         "school": "Waterford Institute of Technology",
