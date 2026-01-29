@@ -2,14 +2,14 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fzhengzangw%2Fnextjs-portfolio-blog-research)
 
-[![Demo Screenshot](.github/asset/sceenshot.png)](https://www.zangwei.dev/)
+[![Demo Screenshot](/public/screenshot.png)](https://www.zhiling.dev/)
 
 [Documentation →](https://www.zangwei.dev/open-source/nextjs-portfolio-blog-research/docs)
 
 ## Demo
 
-- This repo on Vercel: [https://nextjs-portfolio-blog-research.vercel.app/](https://nextjs-portfolio-blog-research.vercel.app/)
-- My portfolio: [zangwei.dev](https://www.zangwei.dev/)
+- This repo on Vercel: [https://personal-website-iota-sandy-77.vercel.app/](https://personal-website-iota-sandy-77.vercel.app/)
+- My portfolio: [zhiling.dev](https://www.zhiling.dev/)
 
 ## Features
 
@@ -81,5 +81,3 @@ Click
 Your portfolio will be live in minutes! No config needed. Vercel’s generous free plan is perfect for personal and demo sites.
 
 ---
-
-Find more details and advanced guides in the [Documentation](https://www.zangwei.dev/open-source/nextjs-portfolio-blog-research/docs).
