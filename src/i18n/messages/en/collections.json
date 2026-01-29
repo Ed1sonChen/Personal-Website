@@ -466,14 +466,19 @@
   "teaching": {
     "items": [
       {
-        "date": "Fall 2022",
-        "location": "National University of Singapore",
-        "title": "CS5242: Neural Networks and Deep Learning"
+        "date": "Fall 2024",
+        "location": "University of Connecticut",
+        "title": "ME3221: Manufacturing Automation"
       },
       {
-        "date": "Fall 2020",
-        "location": "Nanjing University",
-        "title": "Algorithm Analysis & Design"
+        "date": "Spring 2024",
+        "location": "University of Connecticut",
+        "title": "ME3295: Special Topics in MEM"
+      },
+      {
+        "date": "Fall 2023",
+        "location": "University of Connecticut",
+        "title": "ME3221: Manufacturing Automation"
       }
     ]
   },
