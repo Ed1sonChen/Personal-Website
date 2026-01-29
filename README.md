@@ -2,14 +2,14 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fzhengzangw%2Fnextjs-portfolio-blog-research)
 
-[![Demo Screenshot](/public/screenshot.png)](https://www.zhiling.dev/)
+[![Demo Screenshot](/public/screenshot.png)](https://zhiling.dev/)
 
 [Documentation →](https://www.zangwei.dev/open-source/nextjs-portfolio-blog-research/docs)
 
 ## Demo
 
 - This repo on Vercel: [https://personal-website-iota-sandy-77.vercel.app/](https://personal-website-iota-sandy-77.vercel.app/)
-- My portfolio: [zhiling.dev](https://www.zhiling.dev/)
+- My portfolio: [zhiling.dev](https://zhiling.dev/)
 
 ## Features
 
