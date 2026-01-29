@@ -1,0 +1,576 @@
+{
+  "news": {
+    "items": [
+      {
+        "date": "2025.11",
+        "title": "Paper Accepted (first-authored  [MoXpert](https://www.sciencedirect.com/science/article/abs/pii/S0031320325014153), Pattern Recognition)",
+        "content": "📄 Got one first-authored paper accepted to Pattern Recognition. Thanks to all my collaborators!"
+      },
+      {
+        "date": "2025.3",
+        "title": "Paper Accepted (first-authored  [FedDHD](https://www.sciencedirect.com/science/article/abs/pii/S2542660525000812), Internet of Things)",
+        "content": "📄 Got one first-authored paper accepted to Internet of Things. Thanks to all my collaborators!"
+      },
+      {
+        "date": "2025.3",
+        "title": "Paper Accepted ([FedHDPrivacy](https://www.sciencedirect.com/science/article/abs/pii/S0045790625002046), Computers and Electrical Engineering)",
+        "content": "📘 Got one paper accepted to Computers and Electrical Engineering. Congratulations to [Fardin Jalil Piran](https://scholar.google.com/citations?user=A4YLLoUAAAAJ&hl=en)!"
+      },
+      {
+        "date": "2024.11",
+        "title": "Paper Accepted (first-authored  [Clip2Safety](https://www.sciencedirect.com/science/article/abs/pii/S0957417424026368), Expert Systems with Applications)",
+        "content": "📘 Got one paper accepted to Expert Systems with Applications. Thanks to all my collaborators!"
+      },
+      {
+        "date": "2024.8",
+        "title": "Ph.D. Qualifying Exam Passed",
+        "content": "🎓 Passed the qualifying exam. Cong to myself :) and thanks for my supervisors and friends' help!"
+      },
+      {
+        "date": "2024.6",
+        "title": "Paper Accepted (first-authored [Distrubuted Hyperdimensional Computing](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2024/88605/1211630), IMECE 2024)",
+        "content": "📑 Got one first-authored paper accepted to IMECE 2024. Thanks to all my collaborators!"
+      },
+      {
+        "date": "2023.8",
+        "title": "Joined [ISCL @ UConn](https://imani.lab.uconn.edu/) Ph.D. Program",
+        "content": "📚 I will join ISCL @ UConn to start my Ph.D. degree under the supervision of Prof. [Imani Farhad](https://scholar.google.com/citations?user=XIdSChwAAAAJ&hl=en)!"
+      }
+    ]
+  },
+  "projects": {
+    "items": [
+      {
+        "title": "ScanBot",
+        "href": "https://ed1sonchen.github.io/ScanBot/",
+        "dates": "Mar. 2025 - May. 2025",
+        "active": true,
+        "description": "ScanBot is a novel dataset designed for instruction-conditioned, high-precision surface scanning in robotic systems.",
+        "technologies": [],
+        "authors": "",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://arxiv.org/pdf/2505.17295",
+            "icon": "paper"
+          },
+          {
+            "type": "Github",
+            "href": "https://github.com/Ed1sonChen/Scan-Bot",
+            "icon": "github"
+          },
+          {
+            "type": "Website",
+            "href": "https://ed1sonchen.github.io/ScanBot/",
+            "icon": "website"
+          },
+          {
+            "type": "Data",
+            "href": "https://huggingface.co/datasets/ed1son/ScanBot",
+            "icon": "database"
+          }
+        ],
+        "image": "",
+        "video": "/proj-video-scanbot.mp4"
+      },
+      {
+        "title": "MoXpert",
+        "href": "https://github.com/Ed1sonChen/MoXpert",
+        "dates": "Jan. 2025 - Mar. 2025",
+        "active": true,
+        "description": "A multi expert framework named MoXpert to enhance the capabilities of multimodal large language models (MLLMs) in indusrial anomaly detection.",
+        "technologies": [],
+        "authors": "",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://www.sciencedirect.com/science/article/abs/pii/S0031320325014153",
+            "icon": "paper"
+          },
+          {
+            "type": "Github",
+            "href": "https://github.com/Ed1sonChen/MoXpert",
+            "icon": "github"
+          }
+        ],
+        "image": "/proj-MoXpert.png",
+        "video": ""
+      },
+      {
+        "title": "Clip2Safety",
+        "href": "https://www.sciencedirect.com/science/article/abs/pii/S0957417424026368",
+        "dates": "Mar 2024 - Jun 2024",
+        "active": true,
+        "description": "An interpretable vision–language detection framework is proposed to enable reliable and real-time PPE compliance monitoring across heterogeneous workplace scenarios.",
+        "technologies": [],
+        "authors": "",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://www.sciencedirect.com/science/article/abs/pii/S0957417424026368",
+            "icon": "paper"
+          },
+          {
+            "type": "Github",
+            "href": "https://github.com/Ed1sonChen/Clip2Safety",
+            "icon": "github"
+          }
+        ],
+        "image": "/proj-clip2safety.png",
+        "video": ""
+      }
+    ]
+  },
+  "publications": {
+    "items": [
+      {
+        "title": "A multi-expert framework for enhancing multimodal large language models in industrial anomaly detection",
+        "href": "https://www.sciencedirect.com/science/article/abs/pii/S0031320325014153",
+        "dates": "Pattern Recognition 2025",
+        "active": true,
+        "description": "A multi expert framework named MoXpert to enhance the capabilities of multimodal large language models (MLLMs) in indusrial anomaly detection.",
+        "technologies": [
+          "MLLM",
+          "RAG"
+        ],
+        "authors": "**Authors:** **Zhiling Chen**,  Farhad Imani",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://www.sciencedirect.com/science/article/abs/pii/S0031320325014153",
+            "icon": "paper"
+          },
+          {
+            "type": "Github",
+            "href": "https://github.com/Ed1sonChen/MoXpert",
+            "icon": "github"
+          }
+        ],
+        "image": "/proj-MoXpert.png",
+        "video": ""
+      },
+      {
+        "title": "Zero-Shot Anomaly Detection in Laser Powder Bed Fusion Using Multimodal RAG and Large Language Models",
+        "href": "https://asmedigitalcollection.asme.org/mechanicaldesign/article-abstract/148/7/072001/1229042/Zero-Shot-Anomaly-Detection-in-Laser-Powder-Bed?redirectedFrom=fulltext",
+        "dates": "Journal of Mechanical Design",
+        "active": true,
+        "description": "A multimodal RAG framework is proposed to automate anomaly detection in additive manufacturing (AM) without relying on task-specific training data.",
+        "technologies": [
+          "LLM",
+          "RAG"
+        ],
+        "authors": "**Authors:** Kiarash Naghavi Khanghah, **Zhiling Chen**, Lela Romeo, Qian Yang, Rajiv Malhotra, Farhad Imani, Hongyi Xu",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://asmedigitalcollection.asme.org/mechanicaldesign/article-abstract/148/7/072001/1229042/Zero-Shot-Anomaly-Detection-in-Laser-Powder-Bed?redirectedFrom=fulltext",
+            "icon": "paper"
+          }
+        ],
+        "image": "/proj-kiarash.png",
+        "video": ""
+      },
+      {
+        "title": "Privacy-preserving decentralized federated learning via explainable adaptive differential privacy",
+        "href": "https://arxiv.org/pdf/2509.10691?",
+        "dates": "Arxiv 2025",
+        "active": true,
+        "description": "A privacy-accountable and explainable decentralized federated learning framework is introduced by integrating HyperDimensional computing with an explicit differential privacy noise accountant.",
+        "technologies": [
+          "HDC",
+          "Privacy"
+        ],
+        "authors": "**Authors:** Fardin Jalil Piran, **Zhiling Chen**, Yang Zhang, Qianyu Zhou, Jiong Tang, Farhad Imani",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://arxiv.org/pdf/2509.10691?",
+            "icon": "paper"
+          }
+        ],
+        "image": "/proj-Fardin2.png",
+        "video": ""
+      },
+      {
+        "title": "Can multimodal large language models be guided to improve industrial anomaly detection?",
+        "href": "https://arxiv.org/pdf/2501.15795",
+        "dates": "IDETC 2025",
+        "active": true,
+        "description": "We propose Echo, a novel multi-expert framework designed to enhance MLLM performance for industrial anomaly detection.",
+        "technologies": [
+          "MLLM",
+          "RAG"
+        ],
+        "authors": "**Authors:** **Zhiling Chen**, Hanning Chen, Mohsen Imani, Farhad Imani",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://arxiv.org/pdf/2501.15795",
+            "icon": "paper"
+          },
+          {
+            "type": "Github",
+            "href": "https://github.com/Ed1sonChen/Echo",
+            "icon": "github"
+          }
+        ],
+        "image": "/proj-echo.png",
+        "video": ""
+      },
+      {
+        "title": "ScanBot: Towards Intelligent Surface Scanning in Embodied Robotic Systems",
+        "href": "https://arxiv.org/pdf/2505.17295",
+        "dates": "Arxiv 2025",
+        "active": true,
+        "description": "We introduce ScanBot, a novel dataset designed for instruction-conditioned, high-precision surface scanning in robotic systems.",
+        "technologies": [
+          "Laser Profiler",
+          "Embodied Inspection"
+        ],
+        "authors": "**Authors:** **Zhiling Chen**, Yang Zhang, Fardin Jalil Piran, Qianyu Zhou, Jiong Tang, Farhad Imani",
+        "image": "/proj-ScanBot.png",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://arxiv.org/pdf/2505.17295",
+            "icon": "paper"
+          },
+          {
+            "type": "Github",
+            "href": "https://github.com/Ed1sonChen/Scan-Bot",
+            "icon": "github"
+          },
+          {
+            "type": "Website",
+            "href": "https://ed1sonchen.github.io/ScanBot/",
+            "icon": "newspaper"
+          },
+          {
+            "type": "Data",
+            "href": "https://huggingface.co/datasets/ed1son/ScanBot",
+            "icon": "database"
+          }
+        ]
+      },
+      {
+        "title": "Federated Hyperdimensional Computing for hierarchical and distributed quality monitoring in smart manufacturing",
+        "href": "https://www.sciencedirect.com/science/article/abs/pii/S2542660525000812",
+        "dates": "ACL 2024",
+        "active": true,
+        "description": "A communication-efficient federated learning framework based on Hyperdimensional Computing is introduced for hierarchical and non-IID smart manufacturing data at the edge.",
+        "technologies": [
+          "Hyperdimensional Computing",
+          "Federated Learning"
+        ],
+        "authors": "**Authors:** **Zhiling Chen**, Danny Hoang, Fardin Jalil Piran, Ruimin Chen, Farhad Imani",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://www.sciencedirect.com/science/article/abs/pii/S2542660525000812",
+            "icon": "paper"
+          }
+        ],
+        "image": "/proj-fedhd.png"
+      },
+      {
+        "title": "Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models",
+        "href": "https://arxiv.org/pdf/2505.13828?",
+        "dates": "2025 IDETC DFMLC Best Paper Award",
+        "active": true,
+        "description": "A multimodal RAG framework is proposed to automate anomaly detection in additive manufacturing (AM) without relying on task-specific training data.",
+        "technologies": [
+          "LLM",
+          "RAG"
+        ],
+        "authors": "**Authors:** Kiarash Naghavi Khanghah, **Zhiling Chen**, Lela Romeo, Qian Yang, Rajiv Malhotra, Farhad Imani, Hongyi Xu",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://arxiv.org/pdf/2505.13828?",
+            "icon": "paper"
+          }
+        ],
+        "image": "/proj-kiarash.png",
+        "video": ""
+      },
+      {
+        "title": "Privacy-preserving federated learning with differentially private hyperdimensional computing",
+        "href": "https://www.sciencedirect.com/science/article/abs/pii/S0045790625002046",
+        "dates": "Computers and Electrical Engineering",
+        "active": true,
+        "description": "A noise-accountable and explainable federated learning framework is introduced to enable privacy-preserving lifelong learning in IoT systems.",
+        "technologies": [
+          "Hyperdimensional Computing",
+          "Federated Learning",
+          "Privacy"
+        ],
+        "authors": "**Authors:** Fardin Jalil Piran, **Zhiling Chen**, Mohsen Imani, Farhad Imani",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://www.sciencedirect.com/science/article/abs/pii/S0045790625002046",
+            "icon": "paper"
+          }
+        ],
+        "image": "/proj-Fardin.png",
+        "video": ""
+      },
+      {
+        "title": "Vision language model for interpretable and fine-grained detection of safety compliance in diverse workplaces",
+        "href": "https://www.sciencedirect.com/science/article/abs/pii/S0957417424026368",
+        "dates": "Expert Systems with Applications",
+        "active": true,
+        "description": "An interpretable vision–language detection framework is proposed to enable reliable and real-time PPE compliance monitoring across heterogeneous workplace scenarios.",
+        "technologies": [
+          "VLM",
+          "PPE Detection"
+        ],
+        "authors": "**Authors:** **Zhiling Chen**, Hanning Chen, Mohsen Imani, Ruimin Chen, Farhad Imani",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://www.sciencedirect.com/science/article/abs/pii/S0957417424026368",
+            "icon": "paper"
+          },
+          {
+            "type": "Github",
+            "href": "https://github.com/Ed1sonChen/Clip2Safety",
+            "icon": "github"
+          }
+        ],
+        "image": "/proj-clip2safety.png"
+      },
+      {
+        "title": "Few-Shot Visual Reasoning for Wind Turbine Blade Damage Detection via RAG with Vision-Language Model",
+        "href": "https://www.sciencedirect.com/science/article/pii/S2405896325029192",
+        "dates": "IFAC 2025",
+        "active": true,
+        "description": "A visual–text retrieval-augmented vision–language framework is introduced for few-shot reasoning in wind turbine blade inspection.",
+        "technologies": [
+          "VLM",
+          "RAG",
+          "Damage Detection"
+        ],
+        "authors": "**Authors:** Qianyu Zhou, Yang Zhang, **Zhiling Chen**, Fardin Jalil Piran, Farhad Imani, Jiong Tang",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://www.sciencedirect.com/science/article/pii/S2405896325029192",
+            "icon": "paper"
+          }
+        ],
+        "image": "/proj-qianyu.png",
+        "video": ""
+      },
+      {
+        "title": "Distributed hyperdimensional computing for real-time data aggregation and interpretable quality monitoring in manufacturing",
+        "href": "https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2024/88605/1211630",
+        "dates": "2022",
+        "active": true,
+        "description": "A distributed hyperdimensional computing framework is introduced for interpretable multi-sensor learning in manufacturing.",
+        "technologies": [
+          "Hyperdimensional Computing",
+          "Distributed Learning"
+        ],
+        "authors": "**Authors:** **Zhiling Chen**, Danny Hoang, Ruimin Chen, Farhad Imani",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2024/88605/1211630",
+            "icon": "paper"
+          }
+        ],
+        "image": "/proj-distributed.png",
+        "video": ""
+      }
+    ]
+  },
+  "education": {
+    "items": [
+      {
+        "school": "University of Connecticut",
+        "href": "https://uconn.edu/",
+        "degree": "Ph.D. in Mechanical Engineering",
+        "logoUrl": "/icon/uconn_logo.png",
+        "start": "2023",
+        "end": "2027 (expected)"
+      },
+      {
+        "school": "Waterford Institute of Technology",
+        "href": "https://www.setu.ie/",
+        "degree": "Bachelor's Degree of Software Engineering",
+        "logoUrl": "/icon/wit.png",
+        "start": "2020",
+        "end": "2021"
+      },
+      {
+        "school": "Nanjing University of Information Science & Technology ",
+        "href": "https://www.nuist.edu.cn/",
+        "degree": "Bachelor's Degree of Software Engineering",
+        "logoUrl": "/icon/nuist.png",
+        "start": "2017",
+        "end": "2021"
+      },
+      {
+        "school": "Jiangsu Xishan Senior High School",
+        "href": "https://en.wikipedia.org/wiki/Xishan_Senior_High_School#:~:text=Jiangsu%20Xishan%20Senior%20High%20School,in%20computing%20and%20network%20facilities.",
+        "degree": "High School Diploma",
+        "logoUrl": "/icon/xishan.png",
+        "start": "2014",
+        "end": "2017"
+      }
+    ]
+  },
+  "work": {
+    "items": [
+      {
+        "company": "ISCL Lab, University of Connecticut",
+        "href": "https://imani.lab.uconn.edu/",
+        "badges": [],
+        "location": "United States",
+        "title": "Research Assistant",
+        "logoUrl": "/icon/uconn_logo.png",
+        "start": "Aug. 2023",
+        "end": "Present",
+        "description": "Research Assistant."
+      },
+      {
+        "company": "Wuxi CHAOTONG Intelligent Research Institute Co., Ltd",
+        "href": "https://www.chiaot.com/",
+        "badges": [],
+        "location": "China",
+        "title": "Software Engineering Intern",
+        "logoUrl": "/icon/chaotong.png",
+        "start": "Jun. 2019",
+        "end": "Sep. 2019",
+        "description": "Developed a real-time UI system for a 7-inch touchscreen (3 windows: initialization, balancing, monitoring),enabling intuitive operation and dynamic visualization of vibration/rotation signals."
+      }
+    ]
+  },
+  "awards": {
+    "items": [
+      {
+        "year": 2025,
+        "title": "ASME DFMLC Best Paper Award"
+      },
+      {
+        "year": 2025,
+        "title": "Pratt & Whitney Advanced Systems Engineering Travel Fellowship"
+      }
+    ]
+  },
+  "invitedTalks": {
+    "items": [
+    ]
+  },
+  "teaching": {
+    "items": [
+      {
+        "date": "Fall 2022",
+        "location": "National University of Singapore",
+        "title": "CS5242: Neural Networks and Deep Learning"
+      },
+      {
+        "date": "Fall 2020",
+        "location": "Nanjing University",
+        "title": "Algorithm Analysis & Design"
+      }
+    ]
+  },
+  "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "OpenAI API",
+    "MySQL",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Docker",
+    "GitHub Actions",
+    "GitLab CI/CD",
+    "Figma",
+    "Cursor",
+    "ROS",
+    "SolidWorks",
+    "Blender"
+  ],
+  "reviewerConferences": [
+    "MECC",
+    "IMECE"
+  ],
+  "reviewerJournals": [
+    "Journal of supercomputing",
+    "Scientific Report",
+    "Data-Centric Engineering",
+    "Cluster Computing",
+    "Expert Systems with Applications",
+    "Results in Engineering"
+  ],
+  "social": {
+    "GitHub": {
+      "name": "GitHub",
+      "url": "https://github.com/Ed1sonChen",
+      "icon": "github",
+      "navbar": false,
+      "content": true,
+      "footer": true
+    },
+    "GoogleScholar": {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/citations?view_op=list_works&hl=en&user=LgIf0rUAAAAJ&gmla=ALUCkoW_p2oKxoUZq7J9bLMkQpMaUa0W7iTI1qXh1Jk3hU6fdxO0pTOUyuPV9YUxVrWYu2eimgxmdONo66cqeX63F8rRjkFDp0_alAgiAy-o9A",
+      "icon": "googlescholar",
+      "navbar": false,
+      "content": true,
+      "footer": true
+    },
+    "orcid": {
+      "name": "ORCID",
+      "url": "https://orcid.org/0009-0000-3140-4591",
+      "icon": "orcid",
+      "navbar": false,
+      "content": false,
+      "footer": true
+    },
+    "researchgate": {
+      "name": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Zhiling-Chen-4",
+      "icon": "researchgate",
+      "navbar": false,
+      "content": false,
+      "footer": true
+    },
+    "LinkedIn": {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/zhiling-chen-8170a8170/",
+      "icon": "linkedin",
+      "navbar": false,
+      "content": true,
+      "footer": true
+    },
+    "X": {
+      "name": "X",
+      "url": "https://x.com/Ed1sonChennnn",
+      "icon": "x",
+      "navbar": false,
+      "content": true,
+      "footer": true
+    },
+    "wechat": {
+      "name": "WeChat",
+      "url": "/wechat-qrcode.jpg",
+      "icon": "wechat",
+      "navbar": false,
+      "content": false,
+      "footer": true
+    },
+    "email": {
+      "name": "Email",
+      "url": "mailto:zhiling.chen@uconn.edu",
+      "icon": "email",
+      "navbar": false,
+      "content": true,
+      "footer": false
+    }
+  }
+}
