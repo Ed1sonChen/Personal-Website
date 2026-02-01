@@ -115,6 +115,19 @@ export default function ProjectsSection({
           </Button>
         </div>
       )}
+      {showAll && (
+        <div className="col-span-full flex justify-center pt-1">
+          <Button
+            variant="outline"
+            size="sm"
+            onClick={() => setShowAll(false)}
+            className="flex items-center gap-2"
+          >
+            <ChevronDown className="h-4 w-4 rotate-180" />
+            Show Less
+          </Button>
+        </div>
+      )}
     </div>
   );
 }

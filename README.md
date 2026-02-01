@@ -23,7 +23,6 @@ A modern portfolio website with an integrated blog, supporting seamless AI-assis
 - 🧭 **Intuitive navigation:** Clean navbar, stylish footer, and simple language switching.
 - 🌐 **Social integration:** Plenty of modern social media icons to connect everywhere.
 - 🤖 **AI-assisted coding:** Seamless with [Cursor](https://www.cursor.com/) and [Cursor Rules](./.cursor).
-- 📚 **Detailed docs:** Start fast & customize deep with [full documentation](https://docs-nextjs-portfolio-blog-research.zangwei.dev/).
 
 **Built with cutting-edge tech:**
 
@@ -51,7 +50,7 @@ Spin up your own portfolio site in **minutes**!
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/zhengzangw/nextjs-portfolio-blog-research
+git clone https://github.com/Ed1sonChen/Personal-Website
 cd nextjs-portfolio-blog-research
 pnpm install    # or: npm install | yarn install
 ```

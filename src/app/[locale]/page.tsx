@@ -14,6 +14,7 @@ import Skills from "@/components/portfolio/skills";
 import SocialLinks from "@/components/portfolio/socallinks";
 import Talks from "@/components/portfolio/talks";
 import Work from "@/components/portfolio/work";
+import { ResearchChat } from "@/components/research-chat";
 import { CustomReactMarkdown } from "@/components/react-markdown";
 import { BlurFade } from "@/components/ui/blur-fade";
 import { BLUR_FADE_DELAY, siteConfig } from "@/data/site";
@@ -370,6 +371,9 @@ export default async function Page(props: {
           />
         </div>
       </section>
+      
+      {/* Research Chat Assistant */}
+      <ResearchChat />
     </main>
   );
 }
