@@ -1,4 +1,5 @@
 import { getTranslations } from "next-intl/server";
+import Image from "next/image";
 import Link from "next/link";
 import type React from "react";
 
@@ -275,6 +276,52 @@ export default async function Page(props: {
           </div>
         </section>
       )}
+
+      {/* Partners Section */}
+      <section id="partners">
+        <div className="w-full space-y-12 py-12">
+          <div className="flex flex-col items-center justify-center space-y-4 text-center">
+            <div className="space-y-2">
+              <div className="bg-foreground text-background inline-block rounded-lg px-3 py-1 text-sm">
+                Partners
+              </div>
+              <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
+                robots · cat
+              </h2>
+            </div>
+          </div>
+          <div className="mx-auto grid max-w-6xl grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
+            <BlurFade delay={BLUR_FADE_DELAY * 4} className="flex flex-col items-center justify-center">
+              <div className="relative w-full h-64 mb-0">
+                <Image
+                  src="/xArm 6.png"
+                  alt="xArm 6"
+                  fill
+                  className="object-contain"
+                />
+              </div>
+              <div className="text-center w-full">
+                <h3 className="text-lg font-semibold">Tom and Jerry</h3>
+                <p className="text-sm text-muted-foreground">xArm 6</p>
+              </div>
+            </BlurFade>
+            <BlurFade delay={BLUR_FADE_DELAY * 4.2} className="flex flex-col items-center justify-center">
+              <div className="relative w-full h-64 mb-0">
+                <Image
+                  src="/brandy.png"
+                  alt="Brandy"
+                  fill
+                  className="object-contain"
+                />
+              </div>
+              <div className="text-center w-full">
+                <h3 className="text-lg font-semibold">Brandy</h3>
+                <p className="text-sm text-muted-foreground">British Short Hair</p>
+              </div>
+            </BlurFade>
+          </div>
+        </div>
+      </section>
 
       {/* Skills Section */}
       {Array.isArray(skills) && skills.length > 0 && (
