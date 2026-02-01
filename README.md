@@ -1,10 +1,10 @@
 # Portfolio with Blog Template for Next.js 16 with App Router, Tailwind CSS 4, TypeScript
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fzhengzangw%2Fnextjs-portfolio-blog-research)
+<!-- [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fzhengzangw%2Fnextjs-portfolio-blog-research) -->
 
 [![Demo Screenshot](/public/screenshot.png)](https://zhiling.dev/)
 
-[Documentation →](https://www.zangwei.dev/open-source/nextjs-portfolio-blog-research/docs)
+<!-- [Documentation →](https://www.zangwei.dev/open-source/nextjs-portfolio-blog-research/docs) -->
 
 ## Demo
 
@@ -23,6 +23,7 @@ A modern portfolio website with an integrated blog, supporting seamless AI-assis
 - 🧭 **Intuitive navigation:** Clean navbar, stylish footer, and simple language switching.
 - 🌐 **Social integration:** Plenty of modern social media icons to connect everywhere.
 - 🤖 **AI-assisted coding:** Seamless with [Cursor](https://www.cursor.com/) and [Cursor Rules](./.cursor).
+- 🤖 **AI-assisted chatbot:** Integrated with [Groq](https://console.groq.com/home).
 
 **Built with cutting-edge tech:**
 
@@ -73,10 +74,10 @@ The repo includes example portfolio data and blog posts so you'll see real conte
 
 ---
 
-### 🚀 Deploy to Vercel Instantly
+<!-- ### 🚀 Deploy to Vercel Instantly
 
 Click  
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fzhengzangw%2Fnextjs-portfolio-blog-research)  
-Your portfolio will be live in minutes! No config needed. Vercel’s generous free plan is perfect for personal and demo sites.
+Your portfolio will be live in minutes! No config needed. Vercel’s generous free plan is perfect for personal and demo sites. -->
 
 ---
