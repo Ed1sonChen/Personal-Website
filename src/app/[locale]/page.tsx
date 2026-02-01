@@ -286,12 +286,26 @@ export default async function Page(props: {
                 Partners
               </div>
               <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
-                robots · cat
+                human · robots · cat
               </h2>
             </div>
           </div>
           <div className="mx-auto grid max-w-6xl grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
             <BlurFade delay={BLUR_FADE_DELAY * 4} className="flex flex-col items-center justify-center">
+              <div className="relative w-full h-64 mb-0">
+                <Image
+                  src="/love.png"
+                  alt="Feier"
+                  fill
+                  className="object-contain"
+                />
+              </div>
+              <div className="text-center w-full">
+                <h3 className="text-lg font-semibold">Feier</h3>
+                <p className="text-sm text-muted-foreground">My Love</p>
+              </div>
+            </BlurFade>
+            <BlurFade delay={BLUR_FADE_DELAY * 4.2} className="flex flex-col items-center justify-center">
               <div className="relative w-full h-64 mb-0">
                 <Image
                   src="/xArm 6.png"
@@ -305,7 +319,7 @@ export default async function Page(props: {
                 <p className="text-sm text-muted-foreground">xArm 6</p>
               </div>
             </BlurFade>
-            <BlurFade delay={BLUR_FADE_DELAY * 4.2} className="flex flex-col items-center justify-center">
+            <BlurFade delay={BLUR_FADE_DELAY * 4.4} className="flex flex-col items-center justify-center">
               <div className="relative w-full h-64 mb-0">
                 <Image
                   src="/brandy.png"
