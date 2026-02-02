@@ -1,5 +1,7 @@
 import "./globals.css";
 
+import { Analytics } from "@vercel/analytics/next";
+
 export const metadata = {
   verification: {
     google: "nldMm_6-MVdGvo4QP6eEdp0W7Dx_UjIEutWpkq7EpEw",
@@ -12,5 +14,10 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return children;
+  return (
+    <>
+      {children}
+      <Analytics />
+    </>
+  );
 }
