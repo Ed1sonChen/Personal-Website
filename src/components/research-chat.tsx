@@ -121,7 +121,7 @@ export function ResearchChat() {
             setIsOpen(true);
             setTimeout(() => inputRef.current?.focus(), 100);
           }}
-          className="hover:opacity-80 transition-opacity"
+          className="hover:opacity-80 transition-opacity pulse-halo rounded-full"
           title="Ask me anything about my research"
           aria-label="Open research chat"
         >
