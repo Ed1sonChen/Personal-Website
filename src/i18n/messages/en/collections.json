@@ -41,6 +41,24 @@
   "projects": {
     "items": [
       {
+        "title": "SenseHD",
+        "href": "",
+        "dates": "Sep 2025 - Nov 2025",
+        "active": true,
+        "description": "How Should a Robot Configure Its Laser Scanner for Inspection?",
+        "technologies": [],
+        "authors": "",
+        "links": [
+          {
+            "type": "Website",
+            "href": "https://ed1sonchen.github.io/SenseHD/",
+            "icon": "website"
+          }
+        ],
+        "image": "",
+        "video": "/proj-video-sensehd.mp4"
+      },
+      {
         "title": "ScanBot",
         "href": "https://ed1sonchen.github.io/ScanBot/",
         "dates": "Mar. 2025 - May. 2025",
