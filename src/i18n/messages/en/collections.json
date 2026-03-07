@@ -41,6 +41,23 @@
   "projects": {
     "items": [
       {
+        "title": "Open Dual-Arm Lab",
+        "href": "",
+        "dates": "Mar 2026 - ?",
+        "active": true,
+        "description": "Open dual-arm robotics platform: hardware, teleoperation, data collection, and robot learning.",
+        "technologies": [],
+        "authors": "",
+        "links": [
+          {
+            "type": "Github",
+            "href": "https://github.com/Ed1sonChen/Open-Dual-Arm-Lab",
+            "icon": "github"
+          }
+        ],
+        "image": "/open_dual_arm_lab.png"
+      },
+      {
         "title": "SenseHD",
         "href": "",
         "dates": "Sep 2025 - Nov 2025",
@@ -90,52 +107,6 @@
         ],
         "image": "",
         "video": "/proj-video-scanbot.mp4"
-      },
-      {
-        "title": "MoXpert",
-        "href": "https://github.com/Ed1sonChen/MoXpert",
-        "dates": "Jan. 2025 - Mar. 2025",
-        "active": true,
-        "description": "A multi expert framework named MoXpert to enhance the capabilities of multimodal large language models (MLLMs) in indusrial anomaly detection.",
-        "technologies": [],
-        "authors": "",
-        "links": [
-          {
-            "type": "Paper",
-            "href": "https://www.sciencedirect.com/science/article/abs/pii/S0031320325014153",
-            "icon": "paper"
-          },
-          {
-            "type": "Github",
-            "href": "https://github.com/Ed1sonChen/MoXpert",
-            "icon": "github"
-          }
-        ],
-        "image": "/proj-MoXpert.png",
-        "video": ""
-      },
-      {
-        "title": "Clip2Safety",
-        "href": "https://www.sciencedirect.com/science/article/abs/pii/S0957417424026368",
-        "dates": "Mar 2024 - Jun 2024",
-        "active": true,
-        "description": "An interpretable vision–language detection framework is proposed to enable reliable and real-time PPE compliance monitoring across heterogeneous workplace scenarios.",
-        "technologies": [],
-        "authors": "",
-        "links": [
-          {
-            "type": "Paper",
-            "href": "https://www.sciencedirect.com/science/article/abs/pii/S0957417424026368",
-            "icon": "paper"
-          },
-          {
-            "type": "Github",
-            "href": "https://github.com/Ed1sonChen/Clip2Safety",
-            "icon": "github"
-          }
-        ],
-        "image": "/proj-clip2safety.png",
-        "video": ""
       }
     ]
   },
