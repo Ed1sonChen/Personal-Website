@@ -333,6 +333,20 @@ export default async function Page(props: {
                 <p className="text-sm text-muted-foreground">British Short Hair</p>
               </div>
             </BlurFade>
+            <BlurFade delay={BLUR_FADE_DELAY * 4.6} className="flex flex-col items-center justify-center lg:col-start-2">
+              <div className="relative w-full h-64 mb-0">
+                <Image
+                  src="/h2.png"
+                  alt="Unitree H2"
+                  fill
+                  className="object-contain"
+                />
+              </div>
+              <div className="text-center w-full">
+                <h3 className="text-lg font-semibold">New friend</h3>
+                <p className="text-sm text-muted-foreground">Unitree H2</p>
+              </div>
+            </BlurFade>
           </div>
         </div>
       </section>
