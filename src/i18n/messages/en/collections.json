@@ -2,6 +2,11 @@
   "news": {
     "items": [
       {
+        "date": "2026.8",
+        "title": "A New Friend Joins Our Lab: Unitree H2",
+        "content": "🤖 We welcomed a new friend to our lab, the Unitree H2!"
+      },
+      {
         "date": "2026.6",
         "title": "Two Papers Accepted to IROS 2026 (first-authored SenseHD and ScanBot)",
         "content": "📄 Got two first-authored papers accepted to IROS 2026. Thanks to all my collaboators!"
