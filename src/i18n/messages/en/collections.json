@@ -51,6 +51,24 @@
   "projects": {
     "items": [
       {
+        "title": "Frame",
+        "href": "An agentic framework for autonomous robotic inspection.",
+        "dates": "April 2026 - July 2026",
+        "active": true,
+        "description": "",
+        "technologies": [],
+        "authors": "",
+        "links": [
+          {
+            "type": "Website",
+            "href": "https://frame-inspection.github.io/",
+            "icon": "website"
+          }
+        ],
+        "image": "",
+        "video": "/proj-video-frame.mp4"
+      },
+      {
         "title": "Open Dual-Arm Lab",
         "href": "",
         "dates": "Mar 2026 - ?",
