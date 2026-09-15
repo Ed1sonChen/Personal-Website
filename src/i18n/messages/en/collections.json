@@ -52,10 +52,10 @@
     "items": [
       {
         "title": "FRAME",
-        "href": "An agentic framework for autonomous robotic inspection.",
+        "href": "https://frame-inspection.github.io/",
         "dates": "April 2026 - July 2026",
         "active": true,
-        "description": "",
+        "description": "An agentic framework for autonomous robotic inspection.",
         "technologies": [],
         "authors": "",
         "links": [
