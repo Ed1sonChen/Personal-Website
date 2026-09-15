@@ -60,10 +60,16 @@
         "authors": "",
         "links": [
           {
+            "type": "Paper",
+            "href": "https://arxiv.org/abs/2609.14219",
+            "icon": "paper"
+          },
+          {
             "type": "Website",
             "href": "https://frame-inspection.github.io/",
             "icon": "website"
           }
+          
         ],
         "image": "",
         "video": "/proj-video-frame.mp4"
@@ -140,6 +146,33 @@
   },
   "publications": {
     "items": [
+      {
+        "title": "Task-Specified Active Metrological Inspection with Measurement-Steered VLA Manipulation and Deterministic Evidence Gating",
+        "href": "https://arxiv.org/pdf/2609.14219",
+        "dates": "",
+        "active": true,
+        "description": "An agentic framework for autonomous robotic inspection.",
+        "technologies": [
+          "Agentic Robotics",
+          "VLA",
+          "Harness Engineering"
+        ],
+        "authors": "**Authors:** **Zhiling Chen**, Jingzhan Ge, Ruimin Chen, Matthew P. Castanier, David Gorsich, Farhad Imani",
+        "links": [
+          {
+            "type": "Paper",
+            "href": "https://arxiv.org/pdf/2609.14219",
+            "icon": "paper"
+          },
+          {
+            "type": "Website",
+            "href": "https://frame-inspection.github.io/",
+            "icon": "newspaper"
+          }
+        ],
+        "image": "/proj-MoXpert.png",
+        "video": ""
+      },
       {
         "title": "A multi-expert framework for enhancing multimodal large language models in industrial anomaly detection",
         "href": "https://www.sciencedirect.com/science/article/abs/pii/S0031320325014153",
