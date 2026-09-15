@@ -68,6 +68,11 @@
             "type": "Website",
             "href": "https://frame-inspection.github.io/",
             "icon": "website"
+          },
+          {
+            "type": "Demo",
+            "href": "https://frame-inspection.github.io/demo/index.html",
+            "icon": "database"
           }
           
         ],
@@ -168,6 +173,11 @@
             "type": "Website",
             "href": "https://frame-inspection.github.io/",
             "icon": "newspaper"
+          },
+          {
+            "type": "Demo",
+            "href": "https://frame-inspection.github.io/demo/index.html",
+            "icon": "database"
           }
         ],
         "image": "/proj-FRAME.png",
